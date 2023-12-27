@@ -38,6 +38,9 @@ This project implements a Tower of Hanoi GUI using PyQt5. The main data structur
 
 This website, built using the Django framework, serves as the backend for the UGPC (University Programming Contest) registration platform. The primary goal is to facilitate the registration of Gilan University students for the programming event scheduled in May 2023.
 
+![Murder Mystery](https://media.licdn.com/dms/image/D4E22AQEQTXanqgg7yw/feedshare-shrink_2048_1536/0/1683544828630?e=1706745600&v=beta&t=P8D2yIeXk3Kpfcvi4uLBMUTghcGnpgJY-1H1BTM16G0
+)
+
 ## Technologies
 
 - ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
