@@ -36,3 +36,23 @@ This website, built using the Django framework, serves as the backend for the UG
 - ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
 - ![HTML](https://img.shields.io/badge/HTML-Markup-orange?logo=html5)
 - ![CSS](https://img.shields.io/badge/CSS-Stylesheet-blueviolet?logo=css3)
+
+- 🚀 🚀 🚀 🚀 🚀 🚀
+
+# Murder Mystery
+
+Murder Mystery is an immersive Django and React project, presented as a game in the Persian language. Participants delve into the engaging storyline by reading documentations and employing problem-solving skills to unravel the mystery behind the murder.🕵️‍♂️🔍
+
+## Technologies
+
+- ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
+- ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Library-blue?logo=python)
+- ![React](https://img.shields.io/badge/React-Library-blue?logo=react)
+
+Explore the project repositories:
+- [Backend Repository](https://github.com/bnparham/murder_mystery_backend)
+- [Frontend Repository](https://github.com/bnparham/murder_mystery_frontend)
+
+### API Endpoint
+
+For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Backend Repository README.md](https://github.com/bnparham/murder_mystery_backend).
