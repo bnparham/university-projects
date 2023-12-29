@@ -72,3 +72,21 @@ Explore the project repositories:
 ### API Endpoint
 
 For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Backend Repository README.md](https://github.com/bnparham/murder_mystery_backend).
+
+
+🚀 🚀 🚀 🚀 🚀 🚀
+
+
+# CPU Scheduling Algorithm
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github)](https://github.com/bnparham/scheduling-algorithms)
+
+This Python program implements various CPU scheduling algorithms, including First-Come, First-Served (FCFS), Shortest Process Next (SPN), Highest Response Ratio Next (HRRN), and Round Robin. These algorithms simulate the process of selecting a process from the ready queue for execution on the CPU. CPU scheduling is a fundamental aspect of operating systems, and this project provides a practical implementation of different scheduling algorithms
+
+![CPU Scheduling Algorithm](https://raw.githubusercontent.com/bnparham/scheduling-algorithms/master/static/images/fig.png?token=GHSAT0AAAAAACK3GXD2CTHOLYHHSNVTIIHKZMONF4A)
+
+
+## Technologies
+
+- ![Django](https://img.shields.io/badge/Django-Framework-green?logo=django)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-Library-blue?logo=matplotlib)
