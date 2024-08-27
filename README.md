@@ -56,7 +56,12 @@ This website, built using the Django framework, serves as the backend for the UG
 
 Murder Mystery is an immersive Django and React project, presented as a game in the Persian language. Participants delve into the engaging storyline by reading documentations and employing problem-solving skills to unravel the mystery behind the murder.🕵️‍♂️🔍
 
-![Murder Mystery](https://raw.githubusercontent.com/bnparham/murder_mystery_frontend/master/screenshots/h.jpeg)
+![Murder Mystery1](https://i.postimg.cc/fRXgwbSv/1703998246106.jpg)
+![Murder Mystery2](https://i.postimg.cc/7YjW8zh6/1703998246036.jpg)
+![Murder Mystery3](https://i.postimg.cc/kX2ppsnz/1703998245677.jpg)
+![Murder Mystery4](https://i.postimg.cc/44L0PqTp/1703998245670.jpg)
+![Murder Mystery5](https://i.postimg.cc/brBFvDRm/1703998245463.jpg)
+![Murder Mystery6](https://i.postimg.cc/gjJTdq3w/1703998245456.jpg)
 
 
 ## Technologies
