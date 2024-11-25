@@ -75,7 +75,7 @@ Explore the project :
 
 ### API Endpoint
 
-For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Building Efficient APIs for AI Algorithms in Django]([https://github.com/bnparham/murder_mystery_backend](https://www.linkedin.com/pulse/building-efficient-apis-ai-algorithms-django-guide-baradaran-noveiry-forof/?trackingId=GGwc9AfkSkGwc4wNuKXcOA%3D%3D)).
+For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Building Efficient APIs for AI Algorithms in Django](https://www.linkedin.com/pulse/building-efficient-apis-ai-algorithms-django-guide-baradaran-noveiry-forof/?trackingId=GGwc9AfkSkGwc4wNuKXcOA%3D%3D).
 
 
 🚀 🚀 🚀 🚀 🚀 🚀
