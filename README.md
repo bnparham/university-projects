@@ -70,13 +70,12 @@ Murder Mystery is an immersive Django and React project, presented as a game in 
 - ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-Library-blue?logo=python)
 - ![React](https://img.shields.io/badge/React-Library-blue?logo=react)
 
-Explore the project repositories:
-- [Backend Repository](https://github.com/bnparham/murder_mystery_backend)
-- [Frontend Repository](https://github.com/bnparham/murder_mystery_frontend)
+Explore the project :
+- [View Project](https://murder-mystery.liara.run)
 
 ### API Endpoint
 
-For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Backend Repository README.md](https://github.com/bnparham/murder_mystery_backend).
+For the Tic-Tac-Toe game, we develop API which can give you chanse play this game AI . More details can be found in the [Building Efficient APIs for AI Algorithms in Django]([https://github.com/bnparham/murder_mystery_backend](https://www.linkedin.com/pulse/building-efficient-apis-ai-algorithms-django-guide-baradaran-noveiry-forof/?trackingId=GGwc9AfkSkGwc4wNuKXcOA%3D%3D)).
 
 
 🚀 🚀 🚀 🚀 🚀 🚀
